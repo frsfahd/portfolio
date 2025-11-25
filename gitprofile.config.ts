@@ -51,11 +51,10 @@ const CONFIG = {
     telegram: 'frsfahd',
     website: '',
     phone: '',
-    email: 'farraselfahd2000@gmail.com@gmail.com',
+    email: 'farraselfahd2000@gmail.com',
   },
   resume: {
-    fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Golang'
