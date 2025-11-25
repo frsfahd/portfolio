@@ -57,7 +57,7 @@ const CONFIG = {
     fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Golang'
+    'Golang',
     'JavaScript',
     'React.js',
     'Node.js',
