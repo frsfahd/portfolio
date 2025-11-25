@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['afifahreza/cuanpah', 'AZulUye/Inscore-App'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['afifahreza/cuanpah', 'AZulUye/Inscore-App', 'frsfahd/ai-sec-assist'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {},
